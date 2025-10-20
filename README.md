@@ -106,3 +106,6 @@ src/
 - **Category Filters**: Filter by equipment category
 - **Critical Alerts**: Highlight critical and low-stock items
 - **UK Localization**: GBP currency, UK date format
+
+## 🚀 Live Demo
+Access the app here: [https://hospital-inventory-dusky.vercel.app/inventory](https://hospital-inventory-dusky.vercel.app/inventory)
